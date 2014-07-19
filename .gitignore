@@ -1,5 +1,7 @@
 .DS_Store
-.classpath
-.project
-metadata/
-RemoteSystemsTempFiles/
+java/*/.classpath
+java/*/.project
+java/*/.settings
+java/*/bin/
+java/.metadata/
+java/RemoteSystemsTempFiles/
