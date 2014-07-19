@@ -17,11 +17,17 @@
 	* タブをスペース4にする
 	* 左メニューにナビゲータを出す
 	* 下メニューに検索、コンソールを出す
+	* Spotlight検索とコンテンツアシスト(コード補完)のキーバインドが被っている場合は変更
+	* 次のタブ、前のタブ
 
 ## Eclipseプラグイン
 * CheckStyle
+	* http://sevntu-checkstyle.github.com/sevntu.checkstyle/update-site/
+* JDEclipse-Realign
+	* デコンパイルツール
+		* JD-EclipseやJadclipseは古いので使えない
+	* http://d.hatena.ne.jp/anagotan/20130725/1374720657
 
 
-## ディレクトリ構成
 
 
