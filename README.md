@@ -2,6 +2,10 @@
 
 * [Eclipse - Qiita](http://qiita.com/tags/eclipse)
 
+## 勉強中
+* JAX-RS
+* Gradle
+
 ## やっておくべき初期設定
 
 * Mac版EclipseにPleiadesを適用する
@@ -29,5 +33,7 @@
 	* http://d.hatena.ne.jp/anagotan/20130725/1374720657
 
 
-
+## 開発ネタ
+* http://www.slideshare.net/itokami1123/netbeans-javaee-backbonescss
+* https://gist.github.com/monzou/e355a2c425cdad109537
 
