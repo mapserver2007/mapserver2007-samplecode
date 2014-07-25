@@ -22,6 +22,12 @@ public class Main {
         } catch (ReflectiveOperationException e) {
             throw new RuntimeException(e);
         }
+
+        LombokSample lombok = new LombokSample();
+        lombok.setName("kotori");
+
+        System.out.println(lombok.getName());
+
     }
 
 }
