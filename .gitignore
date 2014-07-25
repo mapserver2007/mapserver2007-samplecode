@@ -1,4 +1,5 @@
 .DS_Store
+sandbox/
 java/*/.classpath
 java/*/.project
 java/*/.settings
